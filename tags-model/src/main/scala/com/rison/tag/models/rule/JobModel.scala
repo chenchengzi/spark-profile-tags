@@ -14,6 +14,7 @@ import org.apache.spark.storage.StorageLevel
 /**
  * @author : Rison 2021/7/14 上午8:47
  *         用户职业标签模型
+ *         测试提交
  */
 object JobModel extends Logging {
   /*
